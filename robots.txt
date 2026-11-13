@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portfoliomaker-samples.github.io/11-long-take/sitemap.xml
